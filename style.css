@@ -42,10 +42,6 @@ nav>ul a {
     display: block;
 }
 
-nav>ul a:link {
-    color: blue;
-}
-
 nav>ul a:hover {
     color: white;
     background-color: #6f727b;
